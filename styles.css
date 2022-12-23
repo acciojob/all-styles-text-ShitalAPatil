@@ -4,11 +4,11 @@
     padding:10px;
     width: 200px;
     background-color: purple;
-    border-left: green;
-    border-left-width:5px;
-    font-size: 20px;
-}
+
+    border-left:5px solid green;
+    }
 h1{
+    font-size: 20px;
     color: white;
 }
 /* container div width -> 200px;
